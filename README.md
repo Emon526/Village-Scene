@@ -23,5 +23,6 @@
 - Hay Pile
 
 # Demo
-
-<img alt="GIF" src="https://github.com/Emon526/Village-Scene/blob/main/preview/preview_gif.gif" height = "650vw" /> 
+<p align="center">
+<img alt="GIF" src="https://github.com/Emon526/Village-Scene/blob/main/preview/preview_gif.gif" align= "Center"  width="100%" height="100%" /> 
+</p>
